@@ -1,4 +1,4 @@
-CaseNumber,Age,BMI,Family History,PCOS,OGTT,Hemoglobin,Prediabetes,GestationalDiabetes
+CaseNumber,Age,BMI,FamilyHistory,PCOS,OGTT,Hemoglobin,Prediabetes,GestationalDiabetes
 1,30,25.1,1,0,153,15,0,0
 2,33,25.8,1,0,155,12,0,0
 3,30,25.1,1,0,153,14,0,0
